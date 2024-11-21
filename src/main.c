@@ -34,7 +34,7 @@ typedef signed long int32_t;
 // LED pin define
 // void digital(unsigned char local_number ,int num);
 
-void main()
+void main01()
 {
     unsigned char num;
     // run_520();
